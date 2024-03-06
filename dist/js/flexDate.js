@@ -1,7 +1,3 @@
-/**
- * Created by wangtj.
- * version 1.0
- */
 (function ($) {
     if (!$) {
         throw new Error('you should use jQuery first');
